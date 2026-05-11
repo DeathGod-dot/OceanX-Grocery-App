@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="brand_yellow">#F8D000</color>
+    <color name="brand_yellow_dark">#D4B200</color>
+    <color name="brand_dark">#0F172A</color>
+    <color name="brand_dark_card">#1E293B</color>
+
+    <!-- Primary -->
+    <color name="primary">#1D3557</color>
+    <color name="primary_variant">#457B9D</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Surface -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="on_surface">#1C1C1E</color>
+    <color name="on_surface_secondary">#6B7280</color>
+
+    <!-- Accent -->
+    <color name="accent_green">#16A34A</color>
+    <color name="accent_green_light">#DCFCE7</color>
+    <color name="accent_red">#DC2626</color>
+
+    <!-- Divider -->
+    <color name="divider">#E5E7EB</color>
+
+    <!-- Status bar -->
+    <color name="status_bar">#0F172A</color>
+
+    <!-- Chip -->
+    <color name="chip_selected">#1D3557</color>
+    <color name="chip_unselected">#F1F5F9</color>
+    <color name="chip_text_selected">#FFFFFF</color>
+    <color name="chip_text_unselected">#1C1C1E</color>
+
+    <!-- Bottom Nav -->
+    <color name="bottom_nav_selected">#1D3557</color>
+    <color name="bottom_nav_unselected">#9CA3AF</color>
+</resources>

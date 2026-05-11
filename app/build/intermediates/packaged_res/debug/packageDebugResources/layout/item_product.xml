@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/spacing_xs"
+    app:cardCornerRadius="@dimen/product_card_radius"
+    app:cardElevation="@dimen/card_elevation"
+    app:cardBackgroundColor="@color/surface">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/spacing_sm">
+
+        <!-- Product Image -->
+        <ImageView
+            android:id="@+id/ivProductImage"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/product_image_height"
+            android:scaleType="centerInside"
+            android:padding="@dimen/spacing_sm"
+            android:contentDescription="Product Image"/>
+
+        <!-- Name -->
+        <TextView
+            android:id="@+id/tvProductName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_md"
+            android:textStyle="bold"
+            android:textColor="@color/on_surface"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:layout_marginTop="@dimen/spacing_xs"/>
+
+        <!-- Unit -->
+        <TextView
+            android:id="@+id/tvProductUnit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_sm"
+            android:textColor="@color/on_surface_secondary"
+            android:layout_marginTop="2dp"/>
+
+        <!-- Price row -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginTop="@dimen/spacing_xs">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tvProductPrice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/text_lg"
+                    android:textStyle="bold"
+                    android:textColor="@color/on_surface"/>
+
+                <TextView
+                    android:id="@+id/tvOriginalPrice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/text_sm"
+                    android:textColor="@color/on_surface_secondary"
+                    android:visibility="gone"/>
+            </LinearLayout>
+
+            <!-- Add / Counter -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnAdd"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:layout_width="72dp"
+                android:layout_height="36dp"
+                android:text="@string/add_to_cart"
+                android:textSize="@dimen/text_sm"
+                android:textStyle="bold"
+                app:strokeColor="@color/accent_green"
+                android:textColor="@color/accent_green"
+                app:cornerRadius="8dp"/>
+
+            <LinearLayout
+                android:id="@+id/layoutCounter"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:background="@drawable/bg_counter"
+                android:visibility="gone">
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnDecrease"
+                    style="@style/Widget.Material3.Button.TextButton"
+                    android:layout_width="32dp"
+                    android:layout_height="36dp"
+                    android:text="−"
+                    android:textSize="@dimen/text_lg"
+                    android:textColor="@color/accent_green"
+                    android:textStyle="bold"
+                    android:padding="0dp"/>
+
+                <TextView
+                    android:id="@+id/tvQuantity"
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="@dimen/text_md"
+                    android:textStyle="bold"
+                    android:textColor="@color/on_surface"/>
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnIncrease"
+                    style="@style/Widget.Material3.Button.TextButton"
+                    android:layout_width="32dp"
+                    android:layout_height="36dp"
+                    android:text="+"
+                    android:textSize="@dimen/text_lg"
+                    android:textColor="@color/accent_green"
+                    android:textStyle="bold"
+                    android:padding="0dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

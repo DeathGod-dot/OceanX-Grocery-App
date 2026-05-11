@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+
+    <!-- Cards -->
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="product_card_radius">12dp</dimen>
+
+    <!-- Inputs -->
+    <dimen name="input_radius">12dp</dimen>
+    <dimen name="otp_box_size">56dp</dimen>
+
+    <!-- Buttons -->
+    <dimen name="btn_radius">12dp</dimen>
+    <dimen name="btn_height">52dp</dimen>
+
+    <!-- Product -->
+    <dimen name="product_image_height">120dp</dimen>
+
+    <!-- Text -->
+    <dimen name="text_xs">10sp</dimen>
+    <dimen name="text_sm">12sp</dimen>
+    <dimen name="text_md">14sp</dimen>
+    <dimen name="text_lg">16sp</dimen>
+    <dimen name="text_xl">20sp</dimen>
+    <dimen name="text_2xl">24sp</dimen>
+    <dimen name="text_3xl">32sp</dimen>
+
+    <!-- Bottom nav -->
+    <dimen name="bottom_nav_height">64dp</dimen>
+</resources>

@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_potato.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_potato.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_bg_search.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/color_chip_text_selector.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/color/chip_text_selector.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_bg_badge.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/bg_badge.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_crackers.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_crackers.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/color_chip_selector.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/color/chip_selector.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/layout_activity_login.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_juice.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_juice.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/layout_fragment_otp.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/layout/fragment_otp.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_cart.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_cart.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/layout_fragment_order_success.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/layout/fragment_order_success.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/layout_fragment_home.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_butter.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_butter.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/layout_activity_home.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_spinach.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_spinach.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_soap.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_soap.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/layout_item_product.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/layout/item_product.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/layout_item_cart.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/layout/item_cart.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/anim_fade_out.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_broccoli.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_broccoli.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/color_bottom_nav_selector.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/color/bottom_nav_selector.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_bg_counter.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/bg_counter.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/anim_slide_in_right.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_banana.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_banana.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/anim_shake.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/anim/shake.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_chocolate.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_chocolate.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_bg_otp_box.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/bg_otp_box.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_tomato.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_tomato.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/anim_slide_in_left.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.oceanx.grocery.app-debug-51:/layout_activity_home.xml.flat",
+        "source": "com.oceanx.grocery.app-main-53:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_delete.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_shampoo.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_shampoo.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/layout_fragment_checkout.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/anim_slide_out_left.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/anim_slide_out_right.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_toothpaste.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_toothpaste.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_milk.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_milk.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_home.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/layout_fragment_cart.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/anim_fade_in.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/layout_fragment_login.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_bread.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_bread.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_yogurt.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_yogurt.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_search.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-debug-51:/drawable_ic_arrow_back.xml.flat",
+        "source": "/home/eternal/.gradle/daemon/8.13/com.oceanx.grocery.app-main-53:/drawable/ic_arrow_back.xml"
+    }
+]

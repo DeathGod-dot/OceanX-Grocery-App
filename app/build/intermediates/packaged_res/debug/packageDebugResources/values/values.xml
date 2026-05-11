@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_green">#16A34A</color>
+    <color name="accent_green_light">#DCFCE7</color>
+    <color name="accent_red">#DC2626</color>
+    <color name="bottom_nav_selected">#1D3557</color>
+    <color name="bottom_nav_unselected">#9CA3AF</color>
+    <color name="brand_dark">#0F172A</color>
+    <color name="brand_dark_card">#1E293B</color>
+    <color name="brand_yellow">#F8D000</color>
+    <color name="brand_yellow_dark">#D4B200</color>
+    <color name="chip_selected">#1D3557</color>
+    <color name="chip_text_selected">#FFFFFF</color>
+    <color name="chip_text_unselected">#1C1C1E</color>
+    <color name="chip_unselected">#F1F5F9</color>
+    <color name="divider">#E5E7EB</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_surface">#1C1C1E</color>
+    <color name="on_surface_secondary">#6B7280</color>
+    <color name="primary">#1D3557</color>
+    <color name="primary_variant">#457B9D</color>
+    <color name="status_bar">#0F172A</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <dimen name="bottom_nav_height">64dp</dimen>
+    <dimen name="btn_height">52dp</dimen>
+    <dimen name="btn_radius">12dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="input_radius">12dp</dimen>
+    <dimen name="otp_box_size">56dp</dimen>
+    <dimen name="product_card_radius">12dp</dimen>
+    <dimen name="product_image_height">120dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="text_2xl">24sp</dimen>
+    <dimen name="text_3xl">32sp</dimen>
+    <dimen name="text_lg">16sp</dimen>
+    <dimen name="text_md">14sp</dimen>
+    <dimen name="text_sm">12sp</dimen>
+    <dimen name="text_xl">20sp</dimen>
+    <dimen name="text_xs">10sp</dimen>
+    <string name="add_to_cart">Add</string>
+    <string name="address">Full Address</string>
+    <string name="app_name">OceanX Grocery</string>
+    <string name="bill_summary">Bill Summary</string>
+    <string name="cart_title">My Cart</string>
+    <string name="checkout_title">Checkout</string>
+    <string name="cod">Cash on Delivery</string>
+    <string name="continue_shopping">Continue Shopping</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="empty_cart">Your cart is empty</string>
+    <string name="empty_cart_sub">Add some products to get started!</string>
+    <string name="enter_mobile">Enter mobile number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="estimated_delivery_label">Estimated Delivery</string>
+    <string name="free">FREE</string>
+    <string name="full_name">Full Name</string>
+    <string name="grand_total">Grand Total</string>
+    <string name="home_title">OceanX Grocery</string>
+    <string name="item_total">Item Total</string>
+    <string name="login_subtitle">Enter your mobile number to continue</string>
+    <string name="login_title">Welcome Back!</string>
+    <string name="no_products_found">No products found</string>
+    <string name="online">Online Payment (UPI / Card)</string>
+    <string name="order_id_label">Order ID</string>
+    <string name="order_success_title">Order Placed Successfully! 🎉</string>
+    <string name="otp_hint">Fake OTP: 1234</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="pincode">Pincode</string>
+    <string name="place_order">Place Order</string>
+    <string name="proceed_checkout">Proceed to Checkout</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="search_hint">Search products…</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="shop_now">Shop Now</string>
+    <string name="verify_otp">Verify OTP</string>
+    <style name="Theme.OceanX" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        <item name="android:statusBarColor">@color/brand_dark</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="23">false</item>
+
+        
+        <item name="materialCardViewStyle">@style/Widget.OceanX.CardView</item>
+
+        
+        <item name="materialButtonStyle">@style/Widget.OceanX.Button</item>
+
+        
+        <item name="textInputStyle">@style/Widget.OceanX.TextInputLayout</item>
+    </style>
+    <style name="Theme.OceanX.Auth" parent="Theme.OceanX">
+        <item name="android:windowBackground">@color/brand_dark</item>
+    </style>
+    <style name="Widget.OceanX.Button" parent="Widget.Material3.Button">
+        <item name="cornerRadius">@dimen/btn_radius</item>
+        <item name="backgroundTint">@color/brand_yellow</item>
+        <item name="android:textColor">@color/brand_dark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Widget.OceanX.CardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">@dimen/card_radius</item>
+        <item name="cardElevation">@dimen/card_elevation</item>
+        <item name="cardBackgroundColor">@color/surface</item>
+    </style>
+    <style name="Widget.OceanX.OtpBox" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxStrokeColor">@color/primary</item>
+    </style>
+    <style name="Widget.OceanX.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">@dimen/input_radius</item>
+        <item name="boxCornerRadiusTopEnd">@dimen/input_radius</item>
+        <item name="boxCornerRadiusBottomStart">@dimen/input_radius</item>
+        <item name="boxCornerRadiusBottomEnd">@dimen/input_radius</item>
+    </style>
+    <style name="Widget.OceanX.Toolbar" parent="Widget.Material3.Toolbar">
+        <item name="android:background">@color/surface</item>
+        <item name="titleTextColor">@color/on_surface</item>
+    </style>
+</resources>

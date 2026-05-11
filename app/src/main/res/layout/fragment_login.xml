@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/brand_dark"
+    android:padding="@dimen/spacing_lg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center_vertical">
+
+        <!-- Logo -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🛒"
+            android:textSize="64sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="@dimen/spacing_md"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OceanX"
+            android:textSize="@dimen/text_3xl"
+            android:textStyle="bold"
+            android:textColor="@color/brand_yellow"
+            android:layout_gravity="center_horizontal"
+            android:letterSpacing="0.05"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Grocery Delivery"
+            android:textSize="@dimen/text_md"
+            android:textColor="#80FFFFFF"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="@dimen/spacing_xl"/>
+
+        <!-- Title -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login_title"
+            android:textSize="@dimen/text_2xl"
+            android:textStyle="bold"
+            android:textColor="@color/on_primary"
+            android:layout_marginBottom="@dimen/spacing_xs"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login_subtitle"
+            android:textSize="@dimen/text_md"
+            android:textColor="#80FFFFFF"
+            android:layout_marginBottom="@dimen/spacing_lg"/>
+
+        <!-- Phone input -->
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilPhone"
+            style="@style/Widget.OceanX.TextInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/enter_mobile"
+            app:prefixText="+91 "
+            app:prefixTextColor="@color/brand_yellow"
+            app:boxStrokeColor="@color/brand_yellow"
+            app:hintTextColor="@color/brand_yellow">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etPhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="phone"
+                android:maxLength="10"
+                android:textColor="@color/on_primary"
+                android:textColorHint="#80FFFFFF"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Send OTP Button -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnSendOtp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/btn_height"
+            android:layout_marginTop="@dimen/spacing_md"
+            android:text="@string/send_otp"
+            android:textColor="@color/brand_dark"
+            android:textStyle="bold"
+            android:textSize="@dimen/text_lg"
+            app:backgroundTint="@color/brand_yellow"
+            app:cornerRadius="@dimen/btn_radius"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="By continuing, you agree to our Terms of Service"
+        android:textColor="#60FFFFFF"
+        android:textSize="@dimen/text_sm"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/spacing_md"/>
+
+</LinearLayout>
